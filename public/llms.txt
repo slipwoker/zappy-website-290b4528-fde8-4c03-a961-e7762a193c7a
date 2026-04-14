@@ -1,0 +1,63 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ייבוא וייצוא מקצועי של תאורת כבישים ומנהרות וכבל חשמל במתח נמוך לתשתיות. פתרונות פרימיום ממותגים עולמיים מובילים לקבלנים ורשויות מקומיות. גלו את ההבדל.
+
+### אודות
+https://example.com/about
+חברת T.D GLOBAL היא שותף אסטרטגי בייבוא תאורה מקצועית וכבל חשמל במתח נמוך. גלו את הסיפור, הערכים והניסיון הבינלאומי שהפכו אותנו למובילים בפתיחת שווקים.
+
+### מומחיות
+https://example.com/expertise
+מתמחים בתאורת מנהרות וכבישים מקצועית לצד כבל חסין אש לבניינים וכבלי תקשורת. פתרונות הנדסיים מוכחים לשדות תעופה, מגרשי כדורגל ופארקים. הכירו את המומחיות שלנו.
+
+### פרויקטים
+https://example.com/projects
+סקירת פרויקטי תאורת כבישים ומנהרות וכבל חשמל במתח נמוך שביצענו עבור רשויות מקומיות, קבלנים וחברות תשתיות. הוכחות אמיתיות לאיכות, אמינות ופתרונות בינלאומיים ברמה הגבוהה ביותר.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם מומחי T.D GLOBAL לייבוא כבל חשמל במתח נמוך ותאורת מנהרות וכבישים מקצועית. קבלנים, רשויות וחברות תשתיות — אנחנו כאן עם פתרון מותאם בדיוק לצרכים שלכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - T.D GLOBAL
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - T.D GLOBAL
+
+### Category
+https://example.com/category/:slug
+מוצרים - T.D GLOBAL
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
