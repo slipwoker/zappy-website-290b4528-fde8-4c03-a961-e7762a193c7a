@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# T.D GLOBAL — Generative Engine Optimization Map
+
+> A professional import and export company specializing in two core areas: international outdoor lighting solutions from leading global brands used for roads, streets, tunnels, airports, football fields, and parks; and low-voltage electrical cables including fire-resistant cables, communication cables, and all types of electrical wiring. The company positions itself as a market opener with expertise in international trade and premium infrastructure products.
 
 ---
 
@@ -52,12 +54,29 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+_No products are currently configured._
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+## About T.D GLOBAL
+A professional import and export company specializing in two core areas: international outdoor lighting solutions from leading global brands used for roads, streets, tunnels, airports, football fields, and parks; and low-voltage electrical cables including fire-resistant cables, communication cables, and all types of electrical wiring. The company positions itself as a market opener with expertise in international trade and premium infrastructure products.
+
+## Target Audience
+לקוחות עסקיים, קבלנים, רשויות מקומיות, חברות תשתיות
+
+## Industry
+ייבוא ייצוא, תאורה, כבל חשמל
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
